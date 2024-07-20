@@ -13,8 +13,8 @@
  3.河流水质预警预报
 
 
-![笔记1](images/002.png)
-![笔记2](images/003.png)
+![笔记1](images/002.jpg)
+![笔记2](images/003.jpg)
 ![笔记3](images/note3.jpg)
 
 ##这是我的模型
