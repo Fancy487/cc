@@ -9,7 +9,7 @@
 *很高兴认识大家.
 
 
-1. The frist letter of ONE is O .
+1. AI在水文学应用
 
 
 2. The second letter of ONE is N .
